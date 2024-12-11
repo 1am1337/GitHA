@@ -1,1 +1,1 @@
-wenn ich alles richtig gemacht habe, sollte das hier in der README zeile auftauchen
+Ich habe alles richtig gemacht; das README taucht an der korrekten Stelle auf
